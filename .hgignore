@@ -1,0 +1,10 @@
+syntax: glob
+
+.python-version
+test.py
+test.out
+*.swp
+*.egg-info/
+build/
+dist/
+__pycache__/
