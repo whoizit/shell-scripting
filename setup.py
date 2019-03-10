@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="shell-scripting",
-    version="0.0.2",
+    version="0.0.3",
     author="whoami",
     author_email="whoami@systemli.org",
     description="Shortcut functions for shell scripting on Python 3.7+",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://bitbucket.org/whoizit/shell-scripting",
+    url="https://github.com/whoizit/shell-scripting",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.7",
