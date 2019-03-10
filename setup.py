@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="shell-scripting",
-    version="0.0.1",
+    version="0.0.2",
     author="whoami",
     author_email="whoami@systemli.org",
     description="Shortcut functions for shell scripting on Python 3.7+",
